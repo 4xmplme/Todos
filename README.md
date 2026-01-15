@@ -1,21 +1,27 @@
 # 📝 Todos App
+
 A functional and responsive task management application designed to help users organize their daily activities. This project focuses on providing a seamless user experience for creating, tracking, and managing a list of tasks with a clean and intuitive interface.
 
 ## 🚀 Live Preview
-Check out the Live Demo
+
+- [Live Demo](https://4xmplme.github.io/Todos/)
 
 ## 💻 Technologies Used
+
 ### Core
+
 - **HTML5** – Semantic markup for accessibility and SEO.
 - **SCSS** – Advanced styling with variables and nesting for maintainability.
 - **JavaScript** (ES6+) – Logic for task manipulation and DOM updates.
 
 ### Development & Quality Tools
+
 - **ESLint** (v8.x) – To ensure code quality and consistency.
 - **Stylelint** (v16.x) – For maintaining clean and error-free SCSS.
 - **Parcel**/**Vite** – For fast bundling and local development.
 
 ## 🛠 Getting Started
+
 To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository:**
